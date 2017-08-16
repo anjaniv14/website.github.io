@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="sample.css">
+<style>
+body{
+background-color:black;
+}
+</style>
+
+</head>
+<body>
+<!-- Navigation -->
+<ul>
+  <li><a href="new1.html">Home</a></li>
+  <li><a href="delhi.html">Delhi</a></li>
+  <li><a href="hyderabad.html">Hyderabad</a></li>
+  <li><a href="chennai.html">Chennai</a></li>
+  <li><a href="mumbai.html">Mumbai</a></li>
+  <li><a href="bengaluru.html">Bengaluru</a></li>
+  <li><a href="about.html">About</a></li>
+</ul>
+
+
+<center>
+  <h1><b><font face="Jokerman" size="20" color="#f2f2f2">Explore.com</font></b></h1>
+  
+</center>
+</section>
+</body>
+</html>
